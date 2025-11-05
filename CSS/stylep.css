@@ -1,0 +1,26 @@
+a:link{
+    color:black solid;
+    background-color: rgb(162, 240, 151);
+    padding: 10px; 
+    
+}
+a:visited{
+    color: aquamarine;
+    background-color: blue;
+
+}
+a:active{
+    color: azure;
+    background-color:rgb(22, 153, 109)
+
+}
+a:hover{
+    color: black;
+}
+a:focus{
+    color: aliceblue;
+}
+input:checked + label{
+    text-decoration: line-through;
+    color: aqua;
+}

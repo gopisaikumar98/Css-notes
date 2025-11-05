@@ -1,0 +1,20 @@
+.head {
+    background-color: aqua;
+    height: 200px;
+    border: 20px;
+    width: 200px;
+    color:black;
+    text-align: center;
+    border-radius: 20px;
+
+}
+
+#spcl {
+    background-color: rgb(235, 126, 126);
+   
+}
+
+#spl {
+    background-color: rgb(86, 86, 242);
+
+}

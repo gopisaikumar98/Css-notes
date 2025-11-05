@@ -1,0 +1,44 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.card{
+    width: 200px;
+    height: 200px;
+    border: 2px solid brown;
+    margin: 4px auto;
+}
+.innerdiv{
+    width: 100px;
+    height: 100px;
+    border: 2px solid;
+    border-radius: 50%;
+    margin: auto;
+}
+h1{
+    text-align: center;
+}
+#type{
+    background-color: brown;
+}
+#hexa{
+    background-color: #a1b5a1;
+}
+#rgb{
+    background-color: rgb(2,200,200);
+
+}
+#rgba{
+    background-color: rgba(150, 160, 170,0.7);
+}
+#hsl{
+    background-color: hsl(297, 90%, 61%);
+}
+#hsla{
+    background-color:hsla(118, 202%, 79%,1);
+}
+.button{
+    background-color: blue;
+    text-align: end;
+}
